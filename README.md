@@ -1,0 +1,5 @@
+- Hi, I’m @omarcelohonorato!
+- I’m interested in Web Development;
+- I’m currently learning JavaScript;
+- I’m looking to collaborate on any project involving WebDev!
+- You can reach me through marcelohonorato.s@gmail.com :)
